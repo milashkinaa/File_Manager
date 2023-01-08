@@ -19,7 +19,7 @@ GraphOperations.java- собрание всех операций с графам
 # Чтобы было нагляднее
 
 Для начала покажу то, что было в основной директории:
-![Такое была папка изначально](https://sun9-34.userapi.com/impg/zr0_KhkwphJr4o_zkgFmsXv0LGf7YkP3hTorIw/4bTj4gN-Cww.jpg?size=802x154&quality=96&sign=cf7df5debaa2b64cbb810260444f934b&type=album)
+![Такое была папка изначально](https://sun9-44.userapi.com/impg/BKQwM1FZvOu1DB9r7SZPOdgOaMrlWLL8FoLmAw/jRMP7YoS1Tg.jpg?size=786x130&quality=96&sign=e3183ee931a3e0ab84fc65da5882feea&type=album)
 
 Теперь покажу то, что выводится:
 ![Вот так выглядит вывод](https://sun9-54.userapi.com/impg/Lz_srOGJgfByprURNUcaPxtOaLL4tda5SMkDPw/ilVrQaZXPcA.jpg?size=818x282&quality=96&sign=3f263508aa25979268deccdb327b6f07&type=album)
