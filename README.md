@@ -15,3 +15,7 @@ FilesAnalyzer.java - анализ файликов в директории и п
 GraphOperations.java- собрание всех операций с графами
 
 Ну и Main.java вместе с FileGraphNode.java - с помощью первого запускаем все, во втором прописаны всякие удобные штучки для работы с графами
+
+# Для душевного спокойствия
+
+![Для душевного спокойствия](https://i.pinimg.com/750x/f7/b1/38/f7b13828acafa9fd5dcfdd8e2646ae12.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
