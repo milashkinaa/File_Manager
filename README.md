@@ -19,14 +19,19 @@ GraphOperations.java- собрание всех операций с графам
 # Чтобы было нагляднее
 
 Для начала покажу то, что было в основной директории:
+
 ![Такой была папка изначально](https://sun9-44.userapi.com/impg/BKQwM1FZvOu1DB9r7SZPOdgOaMrlWLL8FoLmAw/jRMP7YoS1Tg.jpg?size=786x130&quality=96&sign=e3183ee931a3e0ab84fc65da5882feea&type=album)
 
 Внутри папки newpapka следующее:
+
 ![Внутри папки newpapka следующее](https://sun9-67.userapi.com/impg/qoFHT0OxeohAyixaJYPDNbGUQo0iF85D8vMY4Q/Qfx0f41Ztp0.jpg?size=271x91&quality=96&sign=581e154d85f54d1c8cfeb8fc41d43976&type=album)
 
 Теперь покажу то, что выводится:
+
 ![Вот так выглядит вывод](https://sun9-26.userapi.com/impg/hFpYGw6UMCS7CTAkfDZmoOjtSWRroYe0tWa13g/GIfnY2QWjmg.jpg?size=800x305&quality=96&sign=6a5a56d9998555f07fedb6ab55734a7b&type=album)
 
 ![Для душевного спокойствия](https://i.pinimg.com/736x/ed/ff/cd/edffcdb5dee2f4d4c534c3d3f5291ebb.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
 
 P.S. В два ночи поняла, что вывод организован неправильно, пришлось экстренно менять код. Вроде, сделано до дедлайна)))
+
+P.P.S Если что-то не запускается - пишите. Будет интересно разобраться, почему...
