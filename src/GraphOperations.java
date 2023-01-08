@@ -2,6 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
@@ -114,10 +115,10 @@ public class GraphOperations {
             }
         }
         Collections.reverse(answer);
+        List names = new ArrayList();
         for (FileGraphNode node : answer) {
             try (BufferedReader br = new BufferedReader(new FileReader(node.getFilePath().toFile()))) {
-                List list = new ArrayList();
-                System.out.println(node.getFilePath().getFileName());
+                names.add(node.getFilePath().getFileName());
                 String line;
                 while ((line = br.readLine()) != null) {
                     System.out.println(line);
@@ -126,5 +127,7 @@ public class GraphOperations {
                 throw new RuntimeException("Возникло исключение при печати файла {}", ex);
             }
         }
+        System.out.println("Список отсортированных файлов:");
+        names.forEach((a)->System.out.println(a));
     }
 }
