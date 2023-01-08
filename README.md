@@ -16,5 +16,13 @@ GraphOperations.java- собрание всех операций с графам
 
 Ну и Main.java вместе с FileGraphNode.java - с помощью первого запускаем все, во втором прописаны всякие удобные штучки для работы с графами
 
+# Чтобы было нагляднее
+
+Для начала покажу то, что было в основной директории:
+![Такое была папка изначально](https://sun9-34.userapi.com/impg/zr0_KhkwphJr4o_zkgFmsXv0LGf7YkP3hTorIw/4bTj4gN-Cww.jpg?size=802x154&quality=96&sign=cf7df5debaa2b64cbb810260444f934b&type=album)
+
+Теперь покажу то, что выводится:
+![Вот так выглядит вывод](https://sun9-54.userapi.com/impg/Lz_srOGJgfByprURNUcaPxtOaLL4tda5SMkDPw/ilVrQaZXPcA.jpg?size=818x282&quality=96&sign=3f263508aa25979268deccdb327b6f07&type=album)
+
 ![Для душевного спокойствия](https://i.pinimg.com/736x/ed/ff/cd/edffcdb5dee2f4d4c534c3d3f5291ebb.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
 
