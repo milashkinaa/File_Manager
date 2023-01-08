@@ -18,4 +18,5 @@ GraphOperations.java- собрание всех операций с графам
 
 # Для душевного спокойствия
 
-![Для душевного спокойствия](https://i.pinimg.com/564x/90/81/2c/90812c8cb496802654e8b55ca51ab8c0.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
+![Для душевного спокойствия](https://i.pinimg.com/736x/ed/ff/cd/edffcdb5dee2f4d4c534c3d3f5291ebb.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
+
