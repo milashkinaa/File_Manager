@@ -21,6 +21,7 @@ GraphOperations.java- собрание всех операций с графам
 Для начала покажу то, что было в основной директории:
 ![Такой была папка изначально](https://sun9-44.userapi.com/impg/BKQwM1FZvOu1DB9r7SZPOdgOaMrlWLL8FoLmAw/jRMP7YoS1Tg.jpg?size=786x130&quality=96&sign=e3183ee931a3e0ab84fc65da5882feea&type=album)
 
+Внутри папки newpapka следующее:
 ![Внутри папки newpapka следующее](https://sun9-67.userapi.com/impg/qoFHT0OxeohAyixaJYPDNbGUQo0iF85D8vMY4Q/Qfx0f41Ztp0.jpg?size=271x91&quality=96&sign=581e154d85f54d1c8cfeb8fc41d43976&type=album)
 
 Теперь покажу то, что выводится:
