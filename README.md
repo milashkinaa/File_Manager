@@ -16,7 +16,5 @@ GraphOperations.java- собрание всех операций с графам
 
 Ну и Main.java вместе с FileGraphNode.java - с помощью первого запускаем все, во втором прописаны всякие удобные штучки для работы с графами
 
-# Для душевного спокойствия
-
 ![Для душевного спокойствия](https://i.pinimg.com/736x/ed/ff/cd/edffcdb5dee2f4d4c534c3d3f5291ebb.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
 
