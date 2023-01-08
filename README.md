@@ -30,6 +30,8 @@ GraphOperations.java- собрание всех операций с графам
 
 ![Вот так выглядит вывод](https://sun9-26.userapi.com/impg/hFpYGw6UMCS7CTAkfDZmoOjtSWRroYe0tWa13g/GIfnY2QWjmg.jpg?size=800x305&quality=96&sign=6a5a56d9998555f07fedb6ab55734a7b&type=album)
 
+
+
 ![Для душевного спокойствия](https://i.pinimg.com/736x/ed/ff/cd/edffcdb5dee2f4d4c534c3d3f5291ebb.jpg?size=675x1200&quality=95&sign=c6d073da5ccc4919bb11e3dc0d96bfe7&type=album "Для душевного спокойствия")
 
 P.S. В два ночи поняла, что вывод организован неправильно, пришлось экстренно менять код. Вроде, сделано до дедлайна)))
