@@ -97,7 +97,7 @@ public class GraphOperations {
     }
 
     /**
-     * Топологическая сортировка и печать файлов
+     * Топологическая сортировка и печать склеенных файлов
      * @param graph граф
      */
     public static void printByTopologicalSorted(Collection<FileGraphNode> graph) {
@@ -116,8 +116,9 @@ public class GraphOperations {
         Collections.reverse(answer);
         for (FileGraphNode node : answer) {
             try (BufferedReader br = new BufferedReader(new FileReader(node.getFilePath().toFile()))) {
+                List list = new ArrayList();
+                System.out.println(node.getFilePath().getFileName());
                 String line;
-                System.out.println(node.getFilePath());
                 while ((line = br.readLine()) != null) {
                     System.out.println(line);
                 }

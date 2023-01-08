@@ -10,7 +10,7 @@ import java.util.Objects;
 import java.util.regex.Pattern;
 
 /**
- * Класс для анализа файлов и построения графика по ним
+ * Класс для анализа файлов и построения графа по ним
  */
 public class FilesAnalyzer {
     private final Map<String, FileGraphNode> graphNodeMap;
